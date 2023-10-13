@@ -1,6 +1,6 @@
 👋 Hi, I’m Valentin
 
-👀 I’m interested in data engineering, data vizualisation, music ...
+👀 I’m interested in data engineering, data vizualisation, electronic music ...
 
 🌱 I publish some of my favourite projects here.
 
